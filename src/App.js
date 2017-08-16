@@ -88,7 +88,7 @@ class BooksApp extends React.Component {
                   </div>
                 </div>
                 <div className="bookshelf">
-                  <h2 className="bookshelf-title">Want to Read TEST1</h2>
+                  <h2 className="bookshelf-title">Want to Read TEST10</h2>
                   <div className="bookshelf-books">
                     <ol className="books-grid">
                       <li>
